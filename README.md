@@ -1,4 +1,4 @@
-👋 Hey there, fellow GitHub wanderer! Welcome to my coding abode! I'm Awaluddin you can call me Ludi or Owl, a passionate Full Stack Developer with a knack for crafting seamless digital experiences. Here's a sneak peek into what I bring to the tech table:
+👋 Hey there, fellow GitHub wanderer! Welcome to my coding abode! I'm Awaluddin, but you can call me Ludi or Owl. I'm a passionate Full Stack Developer hailing from Indonesia, with a knack for crafting seamless digital experiences. Here's a sneak peek into what I bring to the tech table:
 
 🛠️ Tech Stack Toolbox:
 Frontend Sorcery: React, React Native, Next.js, Vue.js - I breathe life into pixels and make UIs dance with JavaScript wizardry.
