@@ -1,5 +1,8 @@
 #👋 Hey there, fellow GitHub wanderer! 🌟
 
+## Codewars Stats
+![Codewars](https://www.codewars.com/users/Awaluddin0001/badges/large)
+
 Welcome to my coding abode! I'm Awaluddin, but you can call me Ludi or Owl. I'm a passionate Full Stack Developer hailing from Indonesia, with a knack for crafting seamless digital experiences. Here's a sneak peek into what I bring to the tech table:
 
 ## 🛠️ Tech Stack Toolbox:
