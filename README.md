@@ -73,9 +73,8 @@ _Migration from Laravel monolith to microservices architecture_
 
 ## 📈 GitHub Stats
 
-![Awaluddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=awaluddin-dev&show_icons=true&theme=radical)
+![Awaluddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=awaluddin-dev&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awaluddin-dev&layout=compact&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awaluddin-dev&layout=compact&theme=radical)
 
 ## 📫 Let's Connect
 
