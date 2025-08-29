@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:your.email@domain.com)
 ![Codewars](https://www.codewars.com/users/Awaluddin0001/badges/large)
 
-**Back End & Microservices Specialist | Node.js | TypeScript | Cloud Architecture | Ex-Telkomsel & Astra Group**
+**Back End & Microservices Specialist | Node.js | TypeScript | Cloud Architecture**
 
 I'm a passionate Back End Developer with a unique background in **ICT Engineering** from Universitas Hasanuddin, specializing in building scalable, high-performance systems that bridge hardware and software. With 4+ years of experience, I thrive on architecting solutions that solve complex business problems, from real-time IoT monitoring to enterprise-level system integrations.
 
