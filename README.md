@@ -87,8 +87,8 @@ I'm always open to discussing:
 **Reach me at:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/awaluddin0001/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:awal14h@gmail.com)
-- Website: [yourwebsite.com](awaluddin.dev)
+- Website: [awaluddin.dev](awaluddin.dev)
 
 ---
 
-⭐ *From [yourusername](https://github.com/awaluddin-dev)*
+⭐ *From [awlauddin-dev](https://github.com/awaluddin-dev)*
