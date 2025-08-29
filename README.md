@@ -1,7 +1,4 @@
 # Hi, I'm Awaluddin 👋
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/awaluddin0001/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:your.email@domain.com)
 ![Codewars](https://www.codewars.com/users/Awaluddin0001/badges/large)
 
 **Back End & Microservices Specialist | Node.js | TypeScript | Cloud Architecture**
@@ -76,9 +73,9 @@ _Migration from Laravel monolith to microservices architecture_
 
 ## 📈 GitHub Stats
 
-![Awaluddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Awaluddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=awaluddin-dev&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awaluddin-dev&layout=compact&theme=radical)
 
 ## 📫 Let's Connect
 
@@ -89,10 +86,10 @@ I'm always open to discussing:
 - Opportunities for collaboration
 
 **Reach me at:**
-- [LinkedIn](https://www.linkedin.com/in/awaluddin0001/)
-- Email: your.email@domain.com
-- Website: [yourwebsite.com](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/awaluddin0001/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:awal14h@gmail.com)
+- Website: [yourwebsite.com](awaluddin.dev)
 
 ---
 
-⭐ *From [yourusername](https://github.com/yourusername)*
+⭐ *From [yourusername](https://github.com/awaluddin-dev)*
