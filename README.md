@@ -38,7 +38,7 @@ I'm a passionate Back End Developer with a unique background in **ICT Engineerin
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 
-**Codewars**
+**Codewars:**
 ![Codewars](https://www.codewars.com/users/Awaluddin0001/badges/micro)
 
 ## 🏆 Highlight Projects
