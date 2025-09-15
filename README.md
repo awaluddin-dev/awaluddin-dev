@@ -1,5 +1,5 @@
 # Hi, I'm Awaluddin 👋
-[![Codewars](https://www.codewars.com/users/Awaluddin0001/badges/micro)]
+![Codewars](https://www.codewars.com/users/Awaluddin0001/badges/micro)
 
 **Back End & Microservices Specialist | Node.js | TypeScript | Cloud Architecture**
 
