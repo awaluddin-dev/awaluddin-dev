@@ -1,5 +1,4 @@
 # Hi, I'm Awaluddin 👋
-![Codewars](https://www.codewars.com/users/Awaluddin0001/badges/micro)
 
 **Back End & Microservices Specialist | Node.js | TypeScript | Cloud Architecture**
 
@@ -38,6 +37,9 @@ I'm a passionate Back End Developer with a unique background in **ICT Engineerin
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+
+**Codewars**
+![Codewars](https://www.codewars.com/users/Awaluddin0001/badges/micro)
 
 ## 🏆 Highlight Projects
 
