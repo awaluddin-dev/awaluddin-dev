@@ -40,6 +40,7 @@ I'm a passionate Back End Developer with a unique background in **ICT Engineerin
 
 **Codewars:**  
 ![Codewars](https://www.codewars.com/users/Awaluddin0001/badges/micro)
+![Hackerrank](https://img.shields.io/badge/HackerRank-47A248?logo=react&logoColor=black)
 
 ## 🏆 Highlight Projects
 
