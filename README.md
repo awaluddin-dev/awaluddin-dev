@@ -1,17 +1,17 @@
-# Hi, I'm Awaluddin 👋
+# Hi, I'm Awaluddin 
 
 **Back End & Microservices Specialist | Node.js | TypeScript | Cloud Architecture**
 
 I'm a passionate Back End Developer with a unique background in **ICT Engineering** from Universitas Hasanuddin, specializing in building scalable, high-performance systems that bridge hardware and software. With 4+ years of experience, I thrive on architecting solutions that solve complex business problems, from real-time IoT monitoring to enterprise-level system integrations.
 
-## 🚀 What I Bring to the Table
+## What I Bring to the Table
 
 - **End-to-End System Ownership:** From designing database schemas to deploying containerized applications on cloud platforms.
 - **Hardware-Software Integration:** Unique ability to connect physical devices (sensors, Modbus, Arduino) with modern web backends.
 - **Enterprise-Grade Solutions:** Experience in developing critical systems for major Indonesian companies (Telkomsel, Astra Group).
 - **Quality-First Approach:** Advocacy for clean code, testing, and DevOps best practices.
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 **Backend Development:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
@@ -42,9 +42,9 @@ I'm a passionate Back End Developer with a unique background in **ICT Engineerin
 ![Codewars](https://www.codewars.com/users/Awaluddin0001/badges/micro)
 ![Hackerrank](https://img.shields.io/badge/HackerRank-000000?logo=HackerRank)
 
-## 🏆 Highlight Projects
+## Highlight Projects
 
-### 🔌 Real-Time DCIM Monitoring System (Telkomsel)
+### Real-Time DCIM Monitoring System (Telkomsel)
 _A full-stack IoT solution for data center infrastructure monitoring_
 
 - Architected a system that reduced incident response time from hours to <5 minutes
@@ -54,7 +54,7 @@ _A full-stack IoT solution for data center infrastructure monitoring_
 
 [![View Code](https://img.shields.io/badge/View-Code-green?style=flat)](link-to-repo)
 
-### 🤖 Enterprise HRIS-ERP Integration (Astra Group)
+### Enterprise HRIS-ERP Integration (Astra Group)
 _Microservices for integrating Mekari Talenta with SAP Serasi_
 
 - Developed critical integrations for employment, attendance, and payroll data
@@ -64,7 +64,7 @@ _Microservices for integrating Mekari Talenta with SAP Serasi_
 
 [![View Code](https://img.shields.io/badge/View-Code-green?style=flat)](link-to-repo)
 
-### 💰 P2P Lending Platform Modernization (Hensel Davest)
+### P2P Lending Platform Modernization (Hensel Davest)
 _Migration from Laravel monolith to microservices architecture_
 
 - Led end-to-end transformation of legacy financial platform
@@ -74,12 +74,12 @@ _Migration from Laravel monolith to microservices architecture_
 
 [![View Code](https://img.shields.io/badge/View-Code-green?style=flat)](link-to-repo)
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Awaluddin's GitHub stats](https://github-readme-stats-fawn-theta.vercel.app/api?username=awaluddin-dev&show_icons=true&theme=dark&count_private=true) ![Top Languages](https://github-readme-stats-fawn-theta.vercel.app/api/top-langs/?username=awaluddin-dev&layout=compact&theme=dark&count_private=true)
 
 
-## 📫 Let's Connect
+## Let's Connect
 
 I'm always open to discussing:
 - Backend architecture challenges
@@ -94,4 +94,4 @@ I'm always open to discussing:
 
 ---
 
-⭐ *From [awlauddin-dev](https://github.com/awaluddin-dev)*
+*From [awlauddin-dev](https://github.com/awaluddin-dev)*
