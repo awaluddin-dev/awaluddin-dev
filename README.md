@@ -19,8 +19,8 @@ I'm a passionate Back End Developer with a unique background in **ICT Engineerin
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-00ADD8?logo=rust)
-![Java](https://img.shields.io/badge/Java-00ADD8?logo=java&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-EF7B4D?logo=rust)
+![Java](https://img.shields.io/badge/Java-FCC624?logo=java)
 
 **Cloud & DevOps:**  
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
