@@ -1,6 +1,6 @@
 # Hi, I'm Awaluddin 
 
-**Back End & Microservices Specialist | Node.js | TypeScript | Golang | Rust**
+**Back End Dev : Node.js | TypeScript | Golang | Rust**
 
 I'm a passionate Back End Developer with a unique background in **ICT Engineering** from Universitas Hasanuddin, specializing in building scalable, high-performance systems that bridge hardware and software. With 4+ years of experience, I thrive on architecting solutions that solve complex business problems, from real-time IoT monitoring to enterprise-level system integrations.
 
