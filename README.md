@@ -1,7 +1,7 @@
-# Hi, I'm Awaluddin! 👋
+# Hi, I'm Awaluddin!
 ### Senior Backend Engineer | Microservices & Legacy Modernization Specialist
 
-> I architect scalable systems for Enterprise Giants (Astra, Telkomsel) and Fintech.  
+> I architect scalable systems for **Enterprise Logistics**, **Telecommunications**, and **Fintech** sectors.  
 > My focus: **Cost Efficiency ($18k/yr savings)**, **High Availability (99.9%)**, and **Clean Architecture**.
 
 ---
@@ -17,20 +17,20 @@
 
 ---
 
-### 🏆 Career Highlights (At a Glance)
+### Professional Impact (Selected Works)
 
-| Company | Role | The "Big Win" Impact |
-| :--- | :--- | :--- |
-| **ASTRA Group (SERA)** | Backend Engineer | **Legacy Modernization:** Migrated .NET Monolith to Node.js Microservices + Azure Service Bus Integration. |
-| **TELKOMSEL** | Software Engineer | **Infrastructure:** Built Custom Bare Metal K8s & IoT System, saving **$18,000/year**. |
-| **HENSEL DAVEST** | Backend Developer | **Compliance:** Engineered OJK-compliant P2P Lending engine & stabilized E-Wallet core. |
+| Industry Sector | The "Big Win" Impact |
+| :--- | :--- |
+| **Enterprise Logistics** | **Legacy Modernization:** Migrated a .NET Monolith to Node.js Microservices + Azure Service Bus Integration for a major automotive group. |
+| **Telecommunications** | **Infrastructure:** Built Custom Bare Metal K8s & IoT System (Modbus/Arduino), saving **$18,000/year** in vendor costs. |
+| **Fintech / P2P Lending** | **Compliance:** Engineered OJK-compliant lending engine & stabilized E-Wallet core for a registered financial institution. |
 
 ---
 
-### 🔭 Featured Repositories (Dive In!)
+### Personal Labs & Open Source
 
 * **[Vertical Slice Architecture Boilerplate](https://github.com/awaluddin-dev/NAMA-REPO-ANDA)** ↳ *My standard for Clean Architecture in Node.js (Express + Inversify).*
-* **[IoT Ingestion Service](https://github.com/awaluddin-dev/NAMA-REPO-ANDA)** *(Contoh)* ↳ *Golang service handling high-frequency Modbus/Arduino data.*
+* **[IoT Ingestion Service](https://github.com/awaluddin-dev/NAMA-REPO-ANDA)** ↳ *Experimental Golang service for handling high-frequency sensor data.*
 
 ---
 
@@ -39,4 +39,8 @@
 <a href="https://awaluddin.dev"><img src="https://img.shields.io/badge/Portfolio-awaluddin.dev-47CCCC?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
-![GitHub stats](https://github-readme-stats-fawn-theta.vercel.app/api?username=awaluddin-dev&show_icons=true&theme=dark&count_private=true) 
+<div align="left">
+  <img src="https://github-readme-stats-fawn-theta.vercel.app/api?username=awaluddin-dev&show_icons=true&theme=dark&count_private=true" height="195" />
+  <span style="display: inline-block; width: 20px;"></span>
+  <img src="https://github-readme-stats-fawn-theta.vercel.app/api/top-langs/?username=awaluddin-dev&layout=compact&theme=dark&count_private=true&card_width=495" height="195" />
+</div>
