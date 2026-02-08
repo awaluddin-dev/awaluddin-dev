@@ -46,12 +46,6 @@ I am a **Senior Backend Engineer** focused on **Legacy System Modernization** an
 
 ---
 
-## GitHub Stats
-
-![Awaluddin's GitHub stats](https://github-readme-stats-fawn-theta.vercel.app/api?username=awaluddin-dev&show_icons=true&theme=dark&count_private=true) ![Top Languages](https://github-readme-stats-fawn-theta.vercel.app/api/top-langs/?username=awaluddin-dev&layout=compact&theme=dark&count_private=true)
-
----
-
 ## 💼 Recent Professional Highlights
 
 ### 🏢 PT SERASI AUTORAYA (ASTRA GROUP) | *Backend Developer (Contract)*
@@ -76,6 +70,6 @@ I am a **Senior Backend Engineer** focused on **Legacy System Modernization** an
 ---
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=awaluddin-dev&show_icons=true&theme=radical&hide_border=true" alt="awaluddin-dev's github stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaluddin-dev&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+![Awaluddin's GitHub stats](https://github-readme-stats-fawn-theta.vercel.app/api?username=awaluddin-dev&show_icons=true&theme=dark&count_private=true) 
+![Top Languages](https://github-readme-stats-fawn-theta.vercel.app/api/top-langs/?username=awaluddin-dev&layout=compact&theme=dark&count_private=true)
 </p>
