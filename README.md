@@ -69,7 +69,5 @@ I am a **Senior Backend Engineer** focused on **Legacy System Modernization** an
 
 ---
 
-<p align="left">
 ![Awaluddin's GitHub stats](https://github-readme-stats-fawn-theta.vercel.app/api?username=awaluddin-dev&show_icons=true&theme=dark&count_private=true) 
 ![Top Languages](https://github-readme-stats-fawn-theta.vercel.app/api/top-langs/?username=awaluddin-dev&layout=compact&theme=dark&count_private=true)
-</p>
