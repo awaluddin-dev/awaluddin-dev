@@ -39,8 +39,7 @@
 <a href="https://awaluddin.dev"><img src="https://img.shields.io/badge/Portfolio-awaluddin.dev-47CCCC?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
-<div align="left">
+<p align="left">
   <img src="https://github-readme-stats-fawn-theta.vercel.app/api?username=awaluddin-dev&show_icons=true&theme=dark&count_private=true" height="195" />
-  <span style="display: inline-block; width: 20px;"></span>
-  <img src="https://github-readme-stats-fawn-theta.vercel.app/api/top-langs/?username=awaluddin-dev&layout=compact&theme=dark&count_private=true&card_width=495" height="195" />
-</div>
+  <img src="https://github-readme-stats-fawn-theta.vercel.app/api/top-langs/?username=awaluddin-dev&layout=compact&theme=dark&count_private=true" height="195" style="margin-left: 14px;" />
+</p>
