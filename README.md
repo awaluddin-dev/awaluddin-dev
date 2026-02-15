@@ -40,6 +40,6 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-fawn-theta.vercel.app/api?username=awaluddin-dev&show_icons=true&theme=dark&count_private=true" height="195" />
-  <img src="https://github-readme-stats-fawn-theta.vercel.app/api/top-langs/?username=awaluddin-dev&layout=compact&theme=dark&count_private=true" height="195" style="margin-left: 14px;" />
+  <img src="https://github-readme-stats-fawn-theta.vercel.app/api?username=awaluddin-dev&show_icons=true&theme=dark&count_private=true" height="145" />
+  <img src="https://github-readme-stats-fawn-theta.vercel.app/api/top-langs/?username=awaluddin-dev&layout=compact&theme=dark&count_private=true" height="145" style="margin-left: 14px;" />
 </p>
