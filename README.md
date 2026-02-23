@@ -1,5 +1,5 @@
 # Hi, I'm Awaluddin!
-### Senior Backend Engineer | Microservices & Legacy Modernization Specialist
+### Software Architect | Senior Backend Engineer
 
 > I architect scalable systems for **Enterprise Logistics**, **Telecommunications**, and **Fintech** sectors.  
 > My focus: **Cost Efficiency ($18k/yr savings)**, **High Availability (99.9%)**, and **Clean Architecture**.
@@ -29,8 +29,15 @@
 
 ### Personal Labs & Open Source
 
-* **[Vertical Slice Architecture Boilerplate](https://github.com/awaluddin-dev/NAMA-REPO-ANDA)** ↳ *My standard for Clean Architecture in Node.js (Express + Inversify).*
-* **[IoT Ingestion Service](https://github.com/awaluddin-dev/NAMA-REPO-ANDA)** ↳ *Experimental Golang service for handling high-frequency sensor data.*
+Here is my featured engineering laboratory where I build and test enterprise-grade architectural concepts:
+
+#### 1. [LedgerFlow - Core Banking & E-Wallet API](https://github.com/awaluddin-dev/ledger-flow)
+A high-performance digital wallet engine built to handle secure financial transactions with strict data integrity.
+- **Key Architectural Features:** - **Optimistic Concurrency Control (OCC)** and **Atomic Transactions** to absolutely prevent race conditions and double-spending.
+  - **Two-Tier Authentication** using short-lived stateless JWTs paired with long-lived Refresh Tokens stored in **Redis** (Session Kill-Switch mechanism).
+  - 100% Containerized with multi-stage **Docker** builds, solving PNPM symlink complexities for zero-downtime deployment.
+  - Automated Unit Testing with **Jest** and interactive API documentation via **Swagger UI**.
+- **Stack:** `NestJS` • `Fastify` • `TypeScript` • `PostgreSQL` • `Redis` • `Prisma` • `Docker`
 
 ---
 
