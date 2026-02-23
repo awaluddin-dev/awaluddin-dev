@@ -1,15 +1,18 @@
 # Hi, I'm Awaluddin!
 ### Software Architect | Senior Backend Engineer
 
-> I architect scalable systems for **Enterprise Logistics**, **Telecommunications**, and **Fintech** sectors.  
-> My focus: **Cost Efficiency ($18k/yr savings)**, **High Availability (99.9%)**, and **Clean Architecture**.
+I architect scalable systems for **Enterprise Logistics**, **Telecommunications**, and **Fintech** sectors.  
+My focus: **Cost Efficiency ($18k/yr savings)**, **High Availability (99.9%)**, and **Clean Architecture**.
+
+> *"Writing code that computers can understand is easy. Writing code that humans can maintain and scale is engineering."*
 
 ---
 
-### 🛠 The Toolbox (Core Stack)
+### The Toolbox (Core Stack)
 <p>
   <img src="https://img.shields.io/badge/Node.js-Typescript-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Golang-Microservices-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-High_Performance-000000?style=flat-square&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-Bare_Metal-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-Enterprise_Integration-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Architecture-Vertical_Slice_%2F_DDD-orange?style=flat-square" />
@@ -33,7 +36,8 @@ Here is my featured engineering laboratory where I build and test enterprise-gra
 
 #### 1. [LedgerFlow - Core Banking & E-Wallet API](https://github.com/awaluddin-dev/ledger-flow)
 A high-performance digital wallet engine built to handle secure financial transactions with strict data integrity.
-- **Key Architectural Features:** - **Optimistic Concurrency Control (OCC)** and **Atomic Transactions** to absolutely prevent race conditions and double-spending.
+- **Key Architectural Features:**
+  - **Optimistic Concurrency Control (OCC)** and **Atomic Transactions** to absolutely prevent race conditions and double-spending.
   - **Two-Tier Authentication** using short-lived stateless JWTs paired with long-lived Refresh Tokens stored in **Redis** (Session Kill-Switch mechanism).
   - 100% Containerized with multi-stage **Docker** builds, solving PNPM symlink complexities for zero-downtime deployment.
   - Automated Unit Testing with **Jest** and interactive API documentation via **Swagger UI**.
