@@ -46,8 +46,9 @@ A high-performance digital wallet engine built to handle secure financial transa
 ---
 
 <p align="left">
-<a href="https://linkedin.com/in/awaluddin0001"><img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
 <a href="https://awaluddin.dev"><img src="https://img.shields.io/badge/Portfolio-awaluddin.dev-47CCCC?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="https://linkedin.com/in/awaluddin0001"><img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://www.hackerrank.com/profile/awal14h"><img src="https://img.shields.io/badge/Follow_Me-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=2EC866" /></a>
 </p>
 
 <p align="left">
