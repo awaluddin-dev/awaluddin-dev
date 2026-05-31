@@ -1,5 +1,5 @@
 # Hi, I'm Awaluddin!
-### Software Architect | Senior Backend Engineer
+### Software Architect | Senior AI Backend Engineer
 
 I architect scalable systems for **Enterprise Logistics**, **Telecommunications**, and **Fintech** sectors.  
 My focus: **Cost Efficiency ($18k/yr savings)**, **High Availability (99.9%)**, and **Clean Architecture**.
