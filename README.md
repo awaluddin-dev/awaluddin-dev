@@ -1,5 +1,5 @@
 # Hi, I'm Awaluddin!
-### AI-Nativer Software engineer | Senior AI Backend Engineer
+### AI-Nativer Software engineer | Senior Backend Engineer | Software Engineer
 
 I architect scalable systems for **Enterprise Logistics**, **Telecommunications**, and **Fintech** sectors.  
 My focus: **Cost Efficiency ($18k/yr savings)**, **High Availability (99.9%)**, and **Clean Architecture**.
