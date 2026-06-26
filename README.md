@@ -55,3 +55,6 @@ A high-performance digital wallet engine built to handle secure financial transa
   <img src="https://github-readme-stats-fawn-theta.vercel.app/api?username=awaluddin-dev&show_icons=true&theme=dark&count_private=true" height="145" />
   <img src="https://github-readme-stats-fawn-theta.vercel.app/api/top-langs/?username=awaluddin-dev&layout=compact&theme=dark&count_private=true" height="145" style="margin-left: 14px;" />
 </p>
+
+## Writing
+- [I Rewrote a Fintech Platform Alone — No Handover, No Team, No Docs](https://dev.to/awaluddin/i-rewrote-a-fintech-platform-alone-no-handover-no-team-no-docs-590p)
