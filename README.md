@@ -1,60 +1,75 @@
-# Hi, I'm Awaluddin!
-### AI-Nativer Software engineer | Senior Backend Engineer | Software Engineer
+# Awaluddin — Backend Engineer & AI Integrator
 
-I architect scalable systems for **Enterprise Logistics**, **Telecommunications**, and **Fintech** sectors.  
-My focus: **Cost Efficiency ($18k/yr savings)**, **High Availability (99.9%)**, and **Clean Architecture**.
-
-> *"Writing code that computers can understand is easy. Writing code that humans can maintain and scale is engineering."*
+**Node.js · Go · Python · LangGraph · Azure · Kubernetes**  
+📍 Jakarta, Indonesia (UTC+7) — Open to fully remote opportunities worldwide
 
 ---
 
-### The Toolbox (Core Stack)
-<p>
-  <img src="https://img.shields.io/badge/Node.js-Typescript-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Golang-Microservices-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-High_Performance-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-Bare_Metal-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-Enterprise_Integration-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Architecture-Vertical_Slice_%2F_DDD-orange?style=flat-square" />
-</p>
+## What I Build
+
+Backend systems that operate under pressure — regulatory audits, high-frequency IoT data, and enterprise-scale SaaS integrations.
+
+Currently at **Astra Group (SERA)**, migrating a legacy .NET Driver Management System to Node.js microservices with Azure Service Bus — handling payroll and logistics data for fleet operations across Indonesia.
+
+Past work:
+- 🏦 Solo-engineered an **OJK & BI compliant P2P lending platform** under active regulatory audit — as the only developer on site
+- 📡 Built **bare-metal Kubernetes + IoT monitoring** at Telkomsel, cutting **$18K/year** in vendor costs and incident response from hours to 5 minutes
+- 🤖 Building **AuraFlow AI** — a distributed multi-agent system using LangGraph + BullMQ for autonomous data validation workflows
 
 ---
 
-### Professional Impact (Selected Works)
+## Tech Stack
 
-| Industry Sector | The "Big Win" Impact |
-| :--- | :--- |
-| **Enterprise Logistics** | **Legacy Modernization:** Migrated a .NET Monolith to Node.js Microservices + Azure Service Bus Integration for a major automotive group. |
-| **Telecommunications** | **Infrastructure:** Built Custom Bare Metal K8s & IoT System (Modbus/Arduino), saving **$18,000/year** in vendor costs. |
-| **Fintech / P2P Lending** | **Compliance:** Engineered OJK-compliant lending engine & stabilized E-Wallet core for a registered financial institution. |
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
----
+**AI & Automation**
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
-### Personal Labs & Open Source
-
-Here is my featured engineering laboratory where I build and test enterprise-grade architectural concepts:
-
-#### 1. [LedgerFlow - Core Banking & E-Wallet API](https://github.com/awaluddin-dev/ledger-flow)
-A high-performance digital wallet engine built to handle secure financial transactions with strict data integrity.
-- **Key Architectural Features:**
-  - **Optimistic Concurrency Control (OCC)** and **Atomic Transactions** to absolutely prevent race conditions and double-spending.
-  - **Two-Tier Authentication** using short-lived stateless JWTs paired with long-lived Refresh Tokens stored in **Redis** (Session Kill-Switch mechanism).
-  - 100% Containerized with multi-stage **Docker** builds, solving PNPM symlink complexities for zero-downtime deployment.
-  - Automated Unit Testing with **Jest** and interactive API documentation via **Swagger UI**.
-- **Stack:** `NestJS` • `Fastify` • `TypeScript` • `PostgreSQL` • `Redis` • `Prisma` • `Docker`
+**Infrastructure & Data**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ---
 
-<p align="left">
-<a href="https://awaluddin.dev"><img src="https://img.shields.io/badge/Portfolio-awaluddin.dev-47CCCC?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-<a href="https://linkedin.com/in/awaluddin0001"><img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-<a href="https://www.hackerrank.com/profile/awal14h"><img src="https://img.shields.io/badge/Follow_Me-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=2EC866" /></a>
-</p>
+## Featured Projects
 
-<p align="left">
-  <img src="https://github-readme-stats-fawn-theta.vercel.app/api?username=awaluddin-dev&show_icons=true&theme=dark&count_private=true" height="145" />
-  <img src="https://github-readme-stats-fawn-theta.vercel.app/api/top-langs/?username=awaluddin-dev&layout=compact&theme=dark&count_private=true" height="145" style="margin-left: 14px;" />
-</p>
+| Project | Description | Stack |
+|---|---|---|
+| [**AuraFlow AI**](https://github.com/awaluddin-dev/auraflow-ai) | Distributed multi-agent system — parse-validate loop using LangGraph + BullMQ | Python, Node.js, LangGraph, Redis |
+| [**LedgerFlow**](https://github.com/awaluddin-dev/ledger-flow) | Digital wallet API with OCC to prevent race conditions and double-spending | NestJS, PostgreSQL, Redis |
+
+---
 
 ## Writing
-- [I Rewrote a Fintech Platform Alone — No Handover, No Team, No Docs](https://dev.to/awaluddin/i-rewrote-a-fintech-platform-alone-no-handover-no-team-no-docs-590p)
+
+- 📝 [I Rewrote a Fintech Platform Alone — No Handover, No Team, No Docs](https://dev.to/awaluddin)
+
+---
+
+## GitHub Stats
+
+![Awaluddin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=awaluddin-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF87&icon_color=00FF87)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awaluddin-dev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF87)
+
+---
+
+## Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-awaluddin.dev-00FF87?style=flat)](https://awaluddin-portfolio-1077361821240.asia-southeast1.run.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-awaluddin0001-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/awaluddin0001)
+[![dev.to](https://img.shields.io/badge/dev.to-awaluddin-0A0A0A?style=flat&logo=devdotto)](https://dev.to/awaluddin)
+[![Email](https://img.shields.io/badge/Email-awal14h@gmail.com-EA4335?style=flat&logo=gmail)](mailto:awal14h@gmail.com)
+
+---
+
+*🟢 Available for remote contracts — UTC+7, flexible for US/EU overlap*
