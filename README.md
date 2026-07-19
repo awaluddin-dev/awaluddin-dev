@@ -56,13 +56,6 @@ Past work:
 
 ---
 
-## GitHub Stats
-
-![Awaluddin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=awaluddin-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF87&icon_color=00FF87)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awaluddin-dev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF87)
-
----
-
 ## Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-awaluddin.dev-00FF87?style=flat)](https://awaluddin-portfolio-1077361821240.asia-southeast1.run.app)
