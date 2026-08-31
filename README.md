@@ -63,7 +63,7 @@ Past work:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-awaluddin.dev-00FF87?style=flat)](https://awaluddin-portfolio-1077361821240.asia-southeast1.run.app)
 [![GitHub](https://img.shields.io/badge/GitHub-awaluddin-dev-181717?style=flat&logo=github)](https://github.com/awaluddin-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-awaluddin0001-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/awaluddin0001)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-awaluddin-developer-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/awaluddin-developer)
 [![dev.to](https://img.shields.io/badge/dev.to-awaluddin-0A0A0A?style=flat&logo=devdotto)](https://dev.to/awaluddin)
 [![Email](https://img.shields.io/badge/Email-awal14h@gmail.com-EA4335?style=flat&logo=gmail)](mailto:awal14h@gmail.com)
 
