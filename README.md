@@ -1,6 +1,6 @@
 # Awaluddin — Backend Engineer & AI Integrator
 
-**Node.js · TypeScript · Go · Python · LangChain ·  LangGraph · Kubernetes**  
+**Node.js · TypeScript · Go · Python · LangChain ·  LangGraph · Production - Kubernetes**  
 Jakarta, Indonesia (UTC+7) — Open to fully remote opportunities worldwide
 
 ---
